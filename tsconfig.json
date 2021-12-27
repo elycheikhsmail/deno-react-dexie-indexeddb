@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "lib": ["esnext", "dom", "dom.iterable"],
+    "target": "es5",
+  }
+}
